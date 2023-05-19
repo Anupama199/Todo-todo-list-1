@@ -1,0 +1,179 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+background-image: url('../main images/1.jpg');
+background-position: fixed;
+background-size: cover;
+
+}
+#hd{
+    background-color: white;
+
+}
+nav{
+    float: right;
+}
+.nav-item{
+    margin-top: 10px;
+    padding: 20px;
+}
+#bt{margin-top: 20px;
+    padding: 5px;
+    font-size: larger;
+}
+.dropdown-menu li a  {
+    border: solid 1px black;
+    padding: 10px;
+    background-color: rgb(161, 118, 87);
+}
+
+.nav-item a{
+    font-size: larger;
+}
+#cor{
+    padding: 50px;
+}
+#g{color: rgb(11, 0, 0);
+   text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#banner{
+       background-image: url('../main images/2.jpg');
+       background-size: cover;
+       background-position: fixed;
+    }
+h1{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: rgb(11, 73, 38);
+        text-align: center;
+        padding-top: 30px;
+        text-shadow: 500px black;
+    }
+#para{
+color: rgb(1, 9, 17);
+font-size: large;
+padding: 30px;
+margin-right: 200px;
+margin-left: 200px;
+text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    #b{
+margin-top: 30px;
+    }
+    #foot{
+        background-color: white;
+        font-size: large;
+       
+    }
+    #f{
+        margin-left: 590px;
+    }
+    
+    #u{
+        margin-left: 710px;
+    }
+    
+    #z{
+        margin-left: 600px;
+    }
+    
+    
+    p{
+        margin: 50px;
+font-size: small;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    #serve{
+        background-color: rgb(212, 253, 253);
+    }
+#bc{
+    height: 6cm;
+}
+
+    #cb{
+        height: 6cm;
+    }
+
+    .card-title{
+        text-align: center;
+    }
+    #e{ font-size: small;
+        text-align: center;
+    }
+    #ser{
+        
+        color: rgb(11, 2, 2);
+        text-align: center;
+         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        
+    }
+    #service{margin-top: 180px;
+        background-color: rgb(204, 253, 237);
+        padding: 100px;
+    }
+    #corz{
+        background-color: rgb(250, 250, 223);
+        padding: 100px;
+        margin-top: 100px;
+       
+       
+    }
+    #q{
+        text-align: center;
+        font-size: medium;
+        padding: 20px;
+        margin-left:150px ;
+        margin-right:150px ;
+    }
+    #e{
+        text-align: center;
+    }
+    .card-body{
+        height: 5cm;
+       
+    }
+    #sc{  padding: 20px;
+        background-color: rgb(216, 227, 227);
+        border: solid white;
+        width: 40cm;
+        height: 10cm;
+        margin-left: 40px;
+        
+    }
+    #pg{ margin-top: 20px;
+        font-size: medium;
+        padding: 20px;
+        text-align: center;
+    }
+    #pgm{
+        color: black;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        margin-left: 630px;
+    }
+    #admi{
+        margin-left: 550px;
+    }
+    #y1{
+border: 1px solid black;
+
+    }
+    #y2{
+
+        border: 1px solid black;  
+    }
+    #add{ 
+        background-color: rgb(161, 118, 87);
+      padding: 10px;
+      height: 6cm;
+     
+    }
+    #c1{ 
+        text-align: center;
+        font-size:small;
+       padding-bottom: 10px;
+    }
+    
+    

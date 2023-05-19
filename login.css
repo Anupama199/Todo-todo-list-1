@@ -1,0 +1,65 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+   background-image: url('../login images/background.jpg');
+   background-position: fixed;
+   background-size: cover;
+}
+#for{
+    border: 3px solid rgb(240, 50, 50);
+    border-style: ridge;
+    box-shadow: 100px;
+   width: 9cm;
+   height: 12cm;
+   padding: 50px;
+   background-color: rgb(237, 233, 233);
+   font-family: cursive;
+   font-size: large;
+   text-shadow: 100px;
+float: right;
+margin-right: 160px;
+margin-bottom: 50px;
+
+}
+#d{ text-align: center;
+color: dodgerblue;
+text-size-adjust: large;
+}
+
+#yo{text-align: center;
+    color:rgb(227, 222, 223);
+   margin-left: 300px;
+   margin-top: 270px;
+   font-family: cursive;
+   font-size: 80px;
+   text-shadow:black  200px;
+}
+#o{text-align: center;
+    color:rgb(199, 195, 195);
+   margin-left: 290px;
+   font-family: cursive;
+   font-size: 30px;
+   font-weight: 400;
+   text-shadow: black 200px;
+   
+   
+}
+
+#sub{
+    width: 100%;
+}
+#k{width: 200px;
+    height: 200px;
+    margin-left: 370px;
+    margin-top: 115px;
+
+}
+footer{
+    float: bottom;
+    margin-top: 600px;
+    margin-left: 550px;
+    color: white;
+}

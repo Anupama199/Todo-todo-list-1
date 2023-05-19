@@ -1,0 +1,146 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: url('../images grid/1.jpg');
+    background-size: cover;
+    background-position: fixed
+    ;
+}
+#hd{
+    background-color: white;
+
+}
+header{
+    background-color: white;
+}
+nav{
+    float: right;
+}
+.nav-item{
+    margin-top: 10px;
+    padding: 20px;
+    padding-right: 50px;
+}
+#bt{margin-top: 20px;
+    padding: 5px;
+    font-size: larger;
+}
+
+
+.dropdown-menu li a  {
+    border: solid 1px black;
+    padding: 10px;
+    background-color: rgb(161, 118, 87);
+}
+
+.nav-item a{
+    font-size: larger;
+}
+
+#nmb{
+    background-color: rgb(244, 241, 199);
+    height: 4em;
+    border: 1px solid rgb(19, 18, 18);
+    padding-top: 10px;
+}
+#cr{
+   background-color: rgb(243, 226, 202); 
+   height: 4em;
+   border: 1px solid rgb(19, 18, 18);
+   padding-top: 10px;
+}
+#ck{padding-top: 10px;
+    background-color: rgb(253, 233, 178);
+    height: 4em;
+    border: 1px solid rgb(19, 18, 18);
+    padding-top: 10px;
+}
+#nm1{
+    background-color: rgb(249, 249, 225);
+    height: 4em;
+    border: 1px solid rgb(19, 18, 18);
+    padding-top: 10px;
+}
+#cr1{
+    background-color:  rgb(250, 238, 220);
+    height: 4em;
+    border: 1px solid rgb(19, 18, 18);
+    padding-top: 10px;
+}
+#ck1{padding-top: 10px;
+    background-color:  rgb(243, 249, 214);
+    height: 4em;
+    border: 1px solid rgb(19, 18, 18);
+    padding-top: 10px;
+}
+#flexCheckChecked{
+   height: 30px;
+   width: 30px;
+   margin-left: 80px;
+}
+#grid{ margin-right: 100px;
+
+    
+}
+#nmo{background-color:rgb(236, 236, 236);
+    height: 4em;  
+    font-size: x-large;
+    padding: 20px;
+    color: brown;
+    border: 1px solid rgb(19, 18, 18);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#cro {background-color: rgb(228, 228, 228);
+    height: 4em;
+    font-size: x-large;
+    border: 1px solid rgb(19, 18, 18);
+    padding: 20px;
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#cko{background-color: rgb(237, 237, 237);
+    height: 4em;
+    font-size: x-large;
+    padding: 20px;
+    color: brown;
+    border: 1px solid rgb(19, 18, 18);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#nav{
+    margin-top: top;
+
+}
+
+#banner{
+    background-image: url('../images grid/2.jpg');
+    background-size: cover;
+    background-position: fixed;
+}
+#foot{ margin-top: 300px;
+    background-color: white;
+    font-size: large;
+   
+}
+#f{
+    margin-left: 550px;
+}
+
+#u{
+    margin-left: 710px;
+}
+
+#z{
+    margin-left: 600px;
+}
+
+#hy{
+    text-align: center;
+}
+
+#hi{margin-top: 120px;
+    text-align: center;
+}
